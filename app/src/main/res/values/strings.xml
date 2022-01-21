@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cinemastic</string>
+
+    <string name="popular_movies_title">Movies</string>
+    <string name="popular_shows_title">Shows</string>
+    <string name="popular_artists_title">Artists</string>
+</resources>
